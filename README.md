@@ -4,6 +4,7 @@ A ReadME file describes the repository, and also doubles up as a quickstart guid
 
 This README file has no quickstart; it's only a descriptive file. It's describing this repo.
 
+Sneha Hijam
 Added below website and name:
 - https://snehijam.github.io/SnehaHijam/
 - Sneha Hijam
